@@ -1,5 +1,5 @@
 function generateNewForm() {
-  var formUrl = "https://docs.google.com/forms/d/1WIcccYkz3OKBYGgS45kPqv_yaJhMRlRfQ8UnJAhMY-8/edit";
+  var formUrl = "URL";
   var form = FormApp.openByUrl(formUrl);
   var items = form.getItems();
   for (var i = 0; i < items.length; i++) {
