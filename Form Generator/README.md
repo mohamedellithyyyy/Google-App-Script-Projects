@@ -31,7 +31,3 @@ This Google Apps Script generates a new Google Form based on data from a specifi
 
 - Mohamed Ellithy (https://github.com/mohamedellithyyyy)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
